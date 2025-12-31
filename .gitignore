@@ -1,0 +1,9 @@
+# Ignore heavy model folders
+phishing_model/
+phishing_model_optimized/
+results/
+
+# Ignore python cache and temp files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
