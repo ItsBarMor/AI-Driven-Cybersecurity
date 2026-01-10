@@ -17,8 +17,8 @@ The core experiment consists of three phases:
 
 | File / Folder | Description |
 | :--- | :--- |
-| `app.py` | **(MVP)** Streamlit web interface for real-time testing. |
-| `traffic_logs.log` | Auto-generated audit logs for security review. |
+| `MVP/app.py` | **(MVP)** Streamlit web interface for real-time testing. |
+| `MVP/traffic_logs.log` | Auto-generated audit logs for security review. |
 | `notebook.ipynb` | Main research notebook containing the full attack/defense pipeline. |
 | `morpheus_dataset_final.jsonl` | Training and validation dataset. |
 | `requirements.txt` | Python dependencies. |
