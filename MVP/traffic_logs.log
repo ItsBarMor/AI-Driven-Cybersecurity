@@ -1,0 +1,18 @@
+2026-01-10 19:24:34,437 - ALERT: Phishing detected. Text: hey team ,
+
+lets talk about th... Score: 99.94533658027649
+2026-01-10 19:26:05,347 - ALERT: Phishing detected. Text: hey team , per our discussion ... Score: 99.96721744537354
+2026-01-10 19:26:22,280 - ALERT: Phishing detected. Text: hey team , per our discussion ... Score: 99.96426105499268
+2026-01-10 19:26:52,432 - ALERT: Phishing detected. Text: hey team , per our discussion ... Score: 99.9593436717987
+2026-01-10 19:26:53,980 - ALERT: Phishing detected. Text: hey team , per our discussion ... Score: 99.9593436717987
+2026-01-10 19:26:54,466 - ALERT: Phishing detected. Text: hey team , per our discussion ... Score: 99.9593436717987
+2026-01-10 19:26:56,768 - ALERT: Phishing detected. Text: hey team , per our discussion ... Score: 99.93246793746948
+2026-01-10 19:27:01,025 - ALERT: Phishing detected. Text: hey team , per our discussion ... Score: 99.9593436717987
+2026-01-10 19:27:02,660 - ALERT: Phishing detected. Text: hey team , per our discussion ... Score: 99.9593436717987
+2026-01-10 19:33:59,545 - ALERT: Phishing detected. Text: hey team , per our discussion ... Score: 99.90066885948181
+2026-01-10 19:34:03,101 - ALERT: Phishing detected. Text: hey team , per our discussion ... Score: 99.83921647071838
+2026-01-10 19:34:20,694 - ALERT: Phishing detected. Text: hey team , per our discussion ... Score: 80.49931526184082
+2026-01-10 19:34:23,462 - SAFE: Traffic processed. Text: hey team , per our discussion ... Score: 97.75541424751282
+2026-01-10 19:35:06,489 - SAFE: Traffic processed. Text: hey team , per our discussion ... Score: 86.28256320953369
+2026-01-10 19:38:15,587 - SAFE: Traffic processed. Text: hey team , per our discussion ... Score: 98.83842468261719
+2026-01-10 19:38:53,288 - ALERT: Phishing detected. Text: hey team , per our discussion ... Score: 76.78267359733582

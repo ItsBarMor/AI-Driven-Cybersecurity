@@ -17,6 +17,8 @@ The core experiment consists of three phases:
 
 | File / Folder | Description |
 | :--- | :--- |
+| `app.py` | **(MVP)** Streamlit web interface for real-time testing. |
+| `traffic_logs.log` | Auto-generated audit logs for security review. |
 | `notebook.ipynb` | Main research notebook containing the full attack/defense pipeline. |
 | `morpheus_dataset_final.jsonl` | Training and validation dataset. |
 | `requirements.txt` | Python dependencies. |
@@ -68,5 +70,14 @@ Run all cells to reproduce the training, attack simulation, and verification gra
 # Disclaimer
 This code is for educational and research purposes only. The attack vectors demonstrated here should only be used on systems you own or have explicit permission to test.
 
-
-
+### 4. Run the MVP Interface (Prototype)
+To launch the interactive web dashboard and test emails in real-time:
+```bash
+pip install streamlit
+cd MVP #from root
+streamlit run app.py 
+```
+This will open your browser to http://localhost:8501.
+* Input: Paste any email text.
+* Output: Instant classification (Safe/Phishing) + confidence score.
+* Logging: All requests are automatically saved to traffic_logs.log for auditing.
