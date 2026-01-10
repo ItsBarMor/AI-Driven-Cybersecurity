@@ -61,15 +61,6 @@ jupyter notebook notebook.ipynb
 ```
 Run all cells to reproduce the training, attack simulation, and verification graphs.
 
-# Team
-* Adi Haim
-* Afik Aharon
-* Bar Mor
-* Ron Noiman
-
-# Disclaimer
-This code is for educational and research purposes only. The attack vectors demonstrated here should only be used on systems you own or have explicit permission to test.
-
 ### 4. Run the MVP Interface (Prototype)
 To launch the interactive web dashboard and test emails in real-time:
 ```bash
@@ -81,3 +72,14 @@ This will open your browser to http://localhost:8501.
 * Input: Paste any email text.
 * Output: Instant classification (Safe/Phishing) + confidence score.
 * Logging: All requests are automatically saved to traffic_logs.log for auditing.
+
+# Team
+* Adi Haim
+* Afik Aharon
+* Bar Mor
+* Ron Noiman
+
+# Disclaimer
+This code is for educational and research purposes only. The attack vectors demonstrated here should only be used on systems you own or have explicit permission to test.
+
+
