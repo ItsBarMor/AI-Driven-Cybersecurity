@@ -2,6 +2,8 @@
 phishing_model/
 phishing_model_optimized/
 results/
+phishing_model.zip
+phishing_model_optimized.zip
 
 # Ignore python cache and temp files
 __pycache__/
