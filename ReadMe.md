@@ -43,7 +43,7 @@ pip install -r requirements.txt
 2. Download phishing_model.zip and phishing_model_optimized.zip.
 3. Extract them into the root directory of the project.
 
-**Your folder structure must look like this for the notebook to run:**
+**Your folder structure must look like this for the notebook to run:** 
 ```
 /AI-Driven-Cybersecurity
   ├── notebook.ipynb
