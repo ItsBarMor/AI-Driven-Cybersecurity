@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+uv.lock
+pyproject.toml   # (רק אם אתה לא רוצה לשתף את ניהול התלויות, בד"כ נהוג להשאיר אותו)
+.vscode/
+docker-compose.override.yml
