@@ -13,6 +13,10 @@ The core experiment consists of three phases:
 2.  **Breach:** Bypassing detection by wrapping malicious payloads in polite corporate jargon .
 3.  **Patch:** Hardening the model via adversarial retraining to achieve 100% resilience against the identified vectors.
 
+## Full Project Presentation
+For a complete explanation of the methodology, attack vectors, adversarial retraining, and implementation details, see the full project presentation on YouTube:
+https://youtu.be/OXoXY1Huljg
+
 ## Repository Structure
 
 | File / Folder | Description |
