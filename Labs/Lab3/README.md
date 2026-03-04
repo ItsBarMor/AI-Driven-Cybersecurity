@@ -1,5 +1,6 @@
-# Lab 3.1 — Event-Driven Cybersecurity Pipeline with Kafka and Tracing
+## Lab 3 – Cybersecurity Event Pipeline
 
+Event-driven cybersecurity pipeline using Kafka, Docker, MITRE ATT&CK classification and distributed tracing with Jaeger.
 ## Overview
 
 In this laboratory assignment, you will build and explore a **simplified cybersecurity analysis pipeline** based on **event streaming and asynchronous processing**.
